@@ -1,0 +1,23 @@
+# Machine Learning - Models & Weights
+checkpoints/
+outputs/
+results/
+results_fixed/
+wandb/
+*.pt
+*.pth
+*.ckpt
+
+# Data & Large Files
+data/
+processed_graphs/
+__pycache__/
+
+# Environments
+.conda/
+.env
+
+# Logs
+logs/
+evaluation_results*/
+evaluation_plots/
